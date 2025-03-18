@@ -24,10 +24,10 @@ Internet 测试 https://github.com/Leo-Corporation/InternetTest
 spotify 音乐下载 https://github.com/spotDL/spotify-downloader  
 柚坛工具箱 NT https://github.com/Uotan-Dev/UotanToolboxNT  
 网页视频提取 https://github.com/caorushizi/mediago  
-浏览器数据导出 https://github.com/moonD4rk/HackBrowserData
-spotify 歌词 https://github.com/WXRIW/Lyricify-App
-国内外歌单迁移 https://github.com/Bistutu/GoMusic
-网易云解析 https://github.com/Suxiaoqinx/Netease_url
+浏览器数据导出 https://github.com/moonD4rk/HackBrowserData  
+spotify 歌词 https://github.com/WXRIW/Lyricify-App  
+国内外歌单迁移 https://github.com/Bistutu/GoMusic  
+网易云解析 https://github.com/Suxiaoqinx/Netease_url  
 AI增强视频/图片分辨率 https://github.com/AaronFeng753/Waifu2x-Extension-GUI  
 玄离199项目整理 https://github.com/xuanli199/weekly  
 QQ空间历史说说 https://github.com/LibraHp/GetQzonehistory  
