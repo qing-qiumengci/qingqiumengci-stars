@@ -51,8 +51,8 @@ spotify（枪弹分离）https://github.com/KRTirtho/spotube
 科学上网教程 https://github.com/Alvin9999/new-pac  
 
 
-模块
-酒域-歌词获取 https://github.com/xiaowine/Lyric-Getter
-午夜神模块整理 https://github.com/grbnb/xp_module
-tg增强模块（TMoe）https://github.com/cinit/TMoe
-抖音模块（FreedomPlus）https://github.com/GangJust/FreedomPlus
+模块  
+酒域-歌词获取 https://github.com/xiaowine/Lyric-Getter  
+午夜神模块整理 https://github.com/grbnb/xp_module  
+tg增强模块（TMoe）https://github.com/cinit/TMoe  
+抖音模块（FreedomPlus）https://github.com/GangJust/FreedomPlus  
