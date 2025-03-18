@@ -38,7 +38,7 @@ m3u8视频下载 https://github.com/Momo707577045/m3u8-downloader
 github汉化 https://github.com/maboloshi/github-chinese  
 哔哩哔哩网页插件（bewlybewly）https://github.com/BewlyBewly/BewlyBewly  
 QQ增强插件 https://github.com/LiteLoaderQQNT/LiteLoaderQQNT  
-listen 1 https://github.com/listen1/listen1_desktop
+listen 1 https://github.com/listen1/listen1_desktop  
 猫抓（浏览器资源嗅探）https://github.com/xifangczy/cat-catch  
 哔哩哔哩第三方浏览器插件 https://github.com/EZ118/BiliChrome  
 spotify(增强补丁)https://github.com/SpotX-Official/SpotX  
@@ -59,12 +59,12 @@ SIM地区修改 https://github.com/Ackites/Nrfr
 spotify（枪弹分离）https://github.com/KRTirtho/spotube  
 广告规则（adguard适用）https://github.com/TG-Twilight/AWAvenue-Ads-Rule  
 哔哩哔哩音乐 https://github.com/bb-music/flutter-app  
-AppOpsX https://github.com/8enet/AppOpsX
+AppOpsX https://github.com/8enet/AppOpsX  
 漫画 kazumi （枪弹分离） https://github.com/Predidit/Kazumi  
 
 科学上网
-v2rayN https://github.com/2dust/v2rayN
-clash verge https://github.com/clash-verge-rev/clash-verge-rev
+v2rayN https://github.com/2dust/v2rayN  
+clash verge https://github.com/clash-verge-rev/clash-verge-rev  
 
 漏网之鱼 https://github.com/louwangzhiyu001/louwangzhiyu  
 科学上网教程 https://github.com/Alvin9999/new-pac  
