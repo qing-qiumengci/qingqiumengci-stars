@@ -1,6 +1,6 @@
 # 🌟 qingqiumengci-stars
 📌 🎼.•*¨*•.¸¸♬🎶卿·秋梦辞自用星标仓库•*¨*•.¸¸♬•*¨*•.¸¸♪
-![qingqiumengci](https://cdn.jsdelivr.net/gh/BewlyBewly/Imgs/wallpapers/bml2019-vr.jpg)
+![qingqiumengci](https://wx4.sinaimg.cn/large/008v8I66gy1hs78oxkklqj33pc2gw4qq.jpg)
 ---
 
 ## 💻 Windows工具与资源
