@@ -3,135 +3,310 @@
 
 ---
 
-## 🖥️ Windows
+## 💻 Windows工具与资源
 
-- **洛雪、Musicfree音源**  
-  - [keep-alive](https://github.com/Huibq/keep-alive)  
-- **音乐播放器（枪弹分离）**  
-  - [Musicfree](https://github.com/maotoumao/MusicFree)  
-- **视频解析播放器（枪弹分离）**  
-  - [tomatox](https://github.com/FreeIess/TOMATOX)  
-- **微信聊天记录导出**  
-  - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)  
-- **连点器**  
-  - [MouseClick](https://github.com/SeaYJ/MouseClick)  
-- **多热搜榜单**  
-  - [newsnow](https://github.com/ourongxing/newsnow)  
-- **Windows11文件夹图标**  
-  - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
-- **电脑控制手机**  
-  - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)  
-- **IP检测**  
-  - [MyIP](https://github.com/jason5ng32/MyIP)  
-- **网页资源下载**  
-  - [res-downloader](https://github.com/putyy/res-downloader)  
-- **网易云增强插件**  
-  - [BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer)  
-  - [BetterNCM](https://github.com/std-microblock/BetterNCM)  
-  - [InfinityLink](https://github.com/BetterNCM/InfinityLink)  
-- **网易云换源**  
-  - [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic)  
-- **聊天机器人部署**  
-  - [AstrBot](https://github.com/Soulter/AstrBot)  
-- **电视源（IPTV）**  
-  - [iptv-api](https://github.com/Guovin/iptv-api)  
-- **WiFi暴力破解**  
-  - [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)  
-- **资源合集**  
-  - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends?tab=readme-ov-file)  
-- **Internet 测试**  
-  - [InternetTest](https://github.com/Leo-Corporation/InternetTest)  
-- **Spotify 音乐下载**  
-  - [spotify-downloader](https://github.com/spotDL/spotify-downloader)  
-- **柚坛工具箱 NT**  
-  - [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)  
-- **网页视频提取**  
-  - [mediago](https://github.com/caorushizi/mediago)  
-- **浏览器数据导出**  
-  - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)  
-- **Spotify 歌词**  
-  - [Lyricify-App](https://github.com/WXRIW/Lyricify-App)  
-- **国内外歌单迁移**  
-  - [GoMusic](https://github.com/Bistutu/GoMusic)  
-- **网易云解析**  
-  - [Netease_url](https://github.com/Suxiaoqinx/Netease_url)  
+- **多媒体与下载**
+  - **洛雪、Musicfree音源**
+    - [keep-alive](https://github.com/Huibq/keep-alive)  
+  - **Musicfree（音乐播放器 枪弹分离）**
+    - [MusicFree](https://github.com/maotoumao/MusicFree)  
+  - **tomatox（视频解析播放器 枪弹分离）**
+    - [TOMATOX](https://github.com/FreeIess/TOMATOX)  
+  - **网易云增强插件**
+    - [BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer)  
+    - [BetterNCM](https://github.com/std-microblock/BetterNCM)  
+    - [InfinityLink](https://github.com/BetterNCM/InfinityLink)  
+  - **网易云换源**
+    - [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic)  
+    - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)  
+  - **网易云解析**
+    - [Netease_url](https://github.com/Suxiaoqinx/Netease_url)  
+  - **Spotify音乐下载**
+    - [spotify-downloader](https://github.com/spotDL/spotify-downloader)  
+  - **Spotify增强补丁**
+    - [SpotX](https://github.com/SpotX-Official/SpotX)  
+  - **Spotify歌词**
+    - [Lyricify-App](https://github.com/WXRIW/Lyricify-App)  
+  - **国内外歌单迁移**
+    - [GoMusic](https://github.com/Bistutu/GoMusic)  
+  - **BBDown（B站视频下载）**
+    - [BBDown](https://github.com/nilaoda/BBDown)  
+  - **biliCopilot（B站第三方）**
+    - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)  
+  - **网页视频提取**
+    - [mediago](https://github.com/caorushizi/mediago)  
+  - **磁力下载（qBittorrent）**
+    - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
+  - **AI语音克隆**
+    - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
+  - **AI增强视频/图片分辨率**
+    - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
 
----
+- **系统与优化**
+  - **电脑控制手机**
+    - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)  
+  - **电脑内存清理**
+    - [memreduct](https://github.com/henrypp/memreduct)  
+  - **Windows优化**
+    - [optimizer](https://github.com/hellzerg/optimizer)  
+  - **Windows11文件夹图标**
+    - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
+  - **鼠标右键菜单管理**
+    - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)  
+  - **连点器**
+    - [MouseClick](https://github.com/SeaYJ/MouseClick)  
+  - **防撤回补丁**
+    - [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)  
+  - **OBS录屏**
+    - [obs-studio](https://github.com/obsproject/obs-studio)  
+  - **拯救者工具箱**
+    - [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)  
 
-## 💻 PC脚本 & 插件
+- **网络与资源**
+  - **IP检测**
+    - [MyIP](https://github.com/jason5ng32/MyIP)  
+  - **WiFi暴力破解**
+    - [wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool)  
+  - **Internet测试**
+    - [InternetTest](https://github.com/Leo-Corporation/InternetTest)  
+  - **网页资源下载**
+    - [res-downloader](https://github.com/putyy/res-downloader)  
+  - **电视源（IPTV）**
+    - [iptv-api](https://github.com/Guovin/iptv-api)  
+  - **资源合集**
+    - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends?tab=readme-ov-file)  
+    - [awesome](https://github.com/sindresorhus/awesome)  
 
-- **搜索引擎优化**  
-  - [GM_script](https://github.com/langren1353/GM_script)  
-- **哔哩哔哩网页增强**  
-  - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
-- **m3u8视频下载**  
-  - [m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader)  
-- **GitHub汉化**  
-  - [github-chinese](https://github.com/maboloshi/github-chinese)  
-- **QQ增强插件**  
-  - [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)  
-- **Listen 1**  
-  - [listen1_desktop](https://github.com/listen1/listen1_desktop)  
-- **猫抓（浏览器资源嗅探）**  
-  - [cat-catch](https://github.com/xifangczy/cat-catch)  
-- **哔哩哔哩第三方插件**  
-  - [BiliChrome](https://github.com/EZ118/BiliChrome)  
-- **Flash插件**  
-  - [FlashPatch](https://github.com/darktohka/FlashPatch)  
+- **社交与数据管理**
+  - **微信聊天记录导出**
+    - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)  
+  - **微信聊天记录提取**
+    - [WeChatMsg](https://github.com/LC044/WeChatMsg)  
+  - **QQ空间历史说说**
+    - [GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)  
+  - **聊天机器人部署**
+    - [AstrBot](https://github.com/Soulter/AstrBot)  
+  - **Protonmail客户端**
+    - [WebClients](https://github.com/ProtonMail/WebClients)  
+  - **浏览器数据导出**
+    - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)  
 
----
+- **抢票与项目整理**
+  - **大麦抢票**
+    - [tickets](https://github.com/shiyutim/tickets)  
+  - **玄离199项目整理**
+    - [weekly](https://github.com/xuanli199/weekly)  
+  - **柚坛工具箱 NT**
+    - [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)  
 
-## 📱 Android
-
-- **洛雪、Musicfree音源**  
-  - [keep-alive](https://github.com/Huibq/keep-alive)  
-- **音乐播放器（枪弹分离）**  
-  - [MusicFree](https://github.com/maotoumao/MusicFree)  
-- **影视TV（枪弹分离）**  
-  - [Release](https://github.com/FongMi/Release)  
-- **大麦抢票脚本**  
-  - [ticket-grabbing](https://github.com/Pactum7/ticket-grabbing)  
-- **哔哩哔哩（第三方）**  
-  - [pilipala](https://github.com/guozhigq/pilipala)  
-- **应用冻结（雹）**  
-  - [Hail](https://github.com/aistra0528/Hail)  
-- **SIM地区修改**  
-  - [Nrfr](https://github.com/Ackites/Nrfr)  
-- **广告规则（AdGuard适用）**  
-  - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)  
-- **阅读（枪弹分离）**  
-  - [legado](https://github.com/gedoor/legado)  
-- **跳广告（GKD）**  
-  - [gkd](https://github.com/gkd-kit/gkd)  
 
 ---
 
-## 🌐 科学上网
+## ⚙️ PC脚本 & 插件
 
-- **v2rayN**  
-  - [v2rayN](https://github.com/2dust/v2rayN)  
-- **Clash Verge**  
-  - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)  
-- **v2rayNG**  
-  - [v2rayNG](https://github.com/2dust/v2rayNG)  
-- **ClashMeta for Android**  
-  - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)  
-- **ProtonVPN（Windows）**  
-  - [win-app](https://github.com/ProtonVPN/win-app)  
+- **网页增强与优化**
+  - **搜索引擎优化**
+    - [GM_script](https://github.com/langren1353/GM_script)  
+  - **搜索引擎**
+    - [luxirty-search](https://github.com/KoriIku/luxirty-search)  
+  - **哔哩哔哩网页增强**
+    - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
+  - **哔哩哔哩网页插件（BewlyBewly）**
+    - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)  
+  - **哔哩哔哩第三方浏览器插件**
+    - [BiliChrome](https://github.com/EZ118/BiliChrome)  
+  - **github汉化**
+    - [github-chinese](https://github.com/maboloshi/github-chinese)  
+  - **人机验证拓展**
+    - [buster](https://github.com/dessant/buster)  
+  - **网页视频下载拓展**
+    - [video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper)  
+
+- **资源下载与嗅探**
+  - **m3u8视频下载**
+    - [m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader)  
+  - **猫抓（浏览器资源嗅探）**
+    - [cat-catch](https://github.com/xifangczy/cat-catch)  
+
+- **QQ与增强插件**
+  - **QQ增强插件**
+    - [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)  
+
+- **学习与自动化**
+  - **学习通题库爬取**
+    - [xxt](https://github.com/notnotype/xxt)  
+  - **学习通刷课**
+    - [xuexitongScript](https://github.com/chaolucky18/xuexitongScript)  
+
+- **音乐与媒体**
+  - **listen 1（音乐聚合）**
+    - [listen1_desktop](https://github.com/listen1/listen1_desktop)  
+
+- **脚本与插件管理**
+  - **脚本猫**
+    - [scriptcat](https://github.com/scriptscat/scriptcat)  
+
+- **其他插件**
+  - **flash插件**
+    - [FlashPatch](https://github.com/darktohka/FlashPatch)  
 
 ---
 
-## 🔧 模块
+## 📱 Android工具与资源
 
-- **LSPatch**  
+- **多媒体与娱乐**
+  - **洛雪、Musicfree音源**
+    - [keep-alive](https://github.com/Huibq/keep-alive)  
+  - **Musicfree（音乐播放器 枪弹分离）**
+    - [MusicFree](https://github.com/maotoumao/MusicFree)  
+  - **哔哩哔哩（第三方）**
+    - [pilipala](https://github.com/guozhigq/pilipala)  
+  - **哔哩哔哩音乐**
+    - [flutter-app](https://github.com/bb-music/flutter-app)  
+  - **哔哩哔哩视频下载**
+    - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge)  
+  - **影视TV（枪弹分离）**
+    - [Release](https://github.com/FongMi/Release)  
+  - **影视Jellyfin果冻（枪弹分离）**
+    - [Jellyfin](https://github.com/jellyfin/jellyfin)  
+  - **漫画Kazumi（枪弹分离）**
+    - [Kazumi](https://github.com/Predidit/Kazumi)  
+  - **阅读（枪弹分离）**
+    - [legado](https://github.com/gedoor/legado)  
+  - **spotify（枪弹分离）**
+    - [spotube](https://github.com/KRTirtho/spotube)  
+
+- **广告与规则**
+  - **广告规则（AdGuard适用）**
+    - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)  
+  - **广告规则（AdGuard）**
+    - [AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules)  
+  - **GKD第三方订阅**
+    - [GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List)  
+  - **GKD第三方规则**
+    - [GKD_subscription](https://github.com/AIsouler/GKD_subscription)  
+  - **GKD（跳广告）**
+    - [gkd](https://github.com/gkd-kit/gkd)  
+  - **SKIP（跳广告）**
+    - [SKIP](https://github.com/GuoXiCheng/SKIP)  
+
+- **系统与管理**
+  - **Thanox（安卓系统管理）**
+    - [Thanox](https://github.com/Tornaco/Thanox?tab=readme-ov-file)  
+  - **Kernel**
+    - [KernelSU](https://github.com/tiann/KernelSU)  
+  - **Shizuku**
+    - [Shizuku](https://github.com/RikkaApps/Shizuku)  
+  - **Santa（应用卸载）**
+    - [Canta](https://github.com/samolego/Canta)  
+  - **AppOpsX**
+    - [AppOpsX](https://github.com/8enet/AppOpsX)  
+  - **设备应用查看**
+    - [LibChecker](https://github.com/LibChecker/LibChecker)  
+  - **虚拟定位**
+    - [GoGoGo](https://github.com/ZCShou/GoGoGo)  
+  - **应用列表**
+    - [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)  
+  - **防撤回（免root）**
+    - [Anti-recall](https://github.com/JasonQS/Anti-recall)  
+
+- **校园与实用工具**
+  - **校园网**
+    - [NJFU-WiFi-Tools](https://github.com/Sunhaha520/NJFU-WiFi-Tools)  
+  - **NJFU资料共享**
+    - [NJFU-Courses](https://github.com/NJFU-CS/NJFU-Courses)  
+  - **大麦抢票脚本**
+    - [ticket-grabbing](https://github.com/Pactum7/ticket-grabbing)  
+
+- **通讯与社交**
+  - **TG群聊&机器人**
+    - [TelegramGroup](https://github.com/AZeC4/TelegramGroup)  
+  - **雹（应用冻结）**
+    - [Hail](https://github.com/aistra0528/Hail)  
+  - **微信历史版本**
+    - [wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions)  
+
+
+---
+
+## 🌐 科学上网工具与资源
+
+- **客户端工具**
+  - **v2rayN**
+    - [v2rayN](https://github.com/2dust/v2rayN)  
+  - **v2rayNG**
+    - [v2rayNG](https://github.com/2dust/v2rayNG)  
+  - **Clash Verge**
+    - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)  
+  - **ClashMeta for Android**
+    - [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid)  
+  - **ProtonVPN**
+    - [ProtonVPN（Android）](https://github.com/ProtonVPN/android-app)  
+    - [ProtonVPN（Windows）](https://github.com/ProtonVPN/win-app)  
+
+- **订阅与节点抓取**
+  - **v2rayN订阅**
+    - [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)  
+  - **Clash订阅**
+    - [clashfree](https://github.com/aiboboxx/clashfree)  
+  - **节点自动抓取**
+    - [AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)  
+  - **漏网之鱼**
+    - [louwangzhiyu](https://github.com/louwangzhiyu001/louwangzhiyu)  
+
+- **科学上网教程**
+  - **科学上网教程**
+    - [new-pac](https://github.com/Alvin9999/new-pac)  
+
+
+---
+
+## 🔧 模块整理
+
+- **框架**
   - [LSPatch](https://github.com/JingMatrix/LSPatch)  
-- **酒域-歌词获取**  
+  - [LSPatch（LSPosed）](https://github.com/LSPosed/LSPatch)  
+
+- **模块集合**
+  - [午夜神模块整理](https://github.com/grbnb/xp_module)
+    
+- **酒域-歌词获取**
   - [Lyric-Getter](https://github.com/xiaowine/Lyric-Getter)  
-- **推特增强（TwiFucker）**  
-  - [TwiFucker](https://github.com/Dr-TSNG/TwiFucker)  
-- **贴吧模块**  
-  - [贴吧TS](https://github.com/GuhDoy/TiebaTS)  
-- **哔哩漫游**  
-  - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  
-- **QQ模块**  
+
+- **社交平台增强**
+  - **TG增强模块（TMoe）**
+    - [TMoe](https://github.com/cinit/TMoe)  
+  - **抖音模块（FreedomPlus）**
+    - [FreedomPlus](https://github.com/GangJust/FreedomPlus)  
+  - **推特增强**
+    - [piko](https://github.com/crimera/piko)  
+    - [TwiFucker](https://github.com/Dr-TSNG/TwiFucker)  
+  - **贴吧模块**
+    - [贴吧TS](https://github.com/GuhDoy/TiebaTS)  
+  - **知乎模块**
+    - [知了](https://github.com/shatyuka/Zhiliao)  
+
+- **多媒体增强**
+  - **杜比大喇叭 β版**
+    - [dolby_beta](https://github.com/nining377/dolby_beta)  
+  - **哔哩漫游**
+    - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  
+  - **哔哩漫游X**
+    - [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)  
+  - **Q音助手**
+    - [qmhelper](https://github.com/Xposed-Modules-Repo/me.kofua.qmhelper)  
+
+- **QQ增强**
   - [QAuxiliary](https://github.com/cinit/QAuxiliary)  
+
+- **微信增强**
+  - [微X模块](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)  
+
+- **签名校验绕过**
+  - [SignHook](https://github.com/xihan123/SignHook)  
+
+- **VIP破解**
+  - **hookvip pro**
+    - [hookvip pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)  
+  - **hookvip**
+    - [hookvip](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp)  
