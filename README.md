@@ -31,17 +31,18 @@
   - **视频** 
     - **tomatox（视频解析播放器 枪弹分离）**
      - [TOMATOX](https://github.com/FreeIess/TOMATOX)  
-   - **BBDown（B站视频下载）**
-     - [BBDown](https://github.com/nilaoda/BBDown)  
-   - **biliCopilot（B站第三方）**
+    - **biliCopilot（B站第三方）**
      - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)  
-   - **网页视频提取**
+    - **网页视频提取下载**
      - [mediago](https://github.com/caorushizi/mediago)  
-   - **磁力下载（qBittorrent）**
+    - **磁力下载（qBittorrent）**
      - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
-   - **AI语音克隆**
+    - **BBDown（B站视频下载）**
+     - [BBDown](https://github.com/nilaoda/BBDown)  
+
+    - **AI语音克隆**
      - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
-   - **AI增强视频/图片分辨率**
+    - **AI增强视频/图片分辨率**
      - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
 
 - **系统与优化**
