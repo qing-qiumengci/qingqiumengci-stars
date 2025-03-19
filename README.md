@@ -112,11 +112,9 @@
     - [GM_script](https://github.com/langren1353/GM_script)  
   - **搜索引擎**
     - [luxirty-search](https://github.com/KoriIku/luxirty-search)  
-  - **哔哩哔哩网页增强**
-    - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
-  - **哔哩哔哩网页插件（BewlyBewly）**
+  - **哔哩哔哩网页插件**
     - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)  
-  - **哔哩哔哩第三方浏览器插件**
+    - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
     - [BiliChrome](https://github.com/EZ118/BiliChrome)  
   - **listen 1（音乐聚合）**
     - [listen1_desktop](https://github.com/listen1/listen1_desktop)  
