@@ -30,20 +30,20 @@
       - [GoMusic](https://github.com/Bistutu/GoMusic)
   - **视频** 
     - **tomatox（视频解析播放器 枪弹分离）**
-     - [TOMATOX](https://github.com/FreeIess/TOMATOX)  
+      - [TOMATOX](https://github.com/FreeIess/TOMATOX)  
     - **biliCopilot（B站第三方）**
-     - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)  
+      - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)  
     - **网页视频提取下载**
-     - [mediago](https://github.com/caorushizi/mediago)  
+      - [mediago](https://github.com/caorushizi/mediago)  
     - **磁力下载（qBittorrent）**
-     - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
+      - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
     - **BBDown（B站视频下载）**
-     - [BBDown](https://github.com/nilaoda/BBDown)  
+      - [BBDown](https://github.com/nilaoda/BBDown)  
 
     - **AI语音克隆**
-     - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
+      - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
     - **AI增强视频/图片分辨率**
-     - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
+      - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
 
 - **系统与优化**
   - **电脑控制手机**
