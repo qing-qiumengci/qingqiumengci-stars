@@ -177,18 +177,19 @@
     - [spotube](https://github.com/KRTirtho/spotube)  
 
 - **广告与规则**
+ - **GKD（跳广告）**
+    - [gkd](https://github.com/gkd-kit/gkd)  
+  - **SKIP（跳广告）**
+    - [SKIP](https://github.com/GuoXiCheng/SKIP)  
   - **广告规则（AdGuard适用）**
     - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)  
-  - **广告规则（AdGuard）**
+   - **广告规则（AdGuard）**
     - [AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules)  
   - **GKD第三方订阅**
     - [GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List)  
   - **GKD第三方规则**
     - [GKD_subscription](https://github.com/AIsouler/GKD_subscription)  
-  - **GKD（跳广告）**
-    - [gkd](https://github.com/gkd-kit/gkd)  
-  - **SKIP（跳广告）**
-    - [SKIP](https://github.com/GuoXiCheng/SKIP)  
+ 
 
 - **系统与管理**
   - **Thanox（安卓系统管理）**
@@ -274,32 +275,32 @@
   - [Lyric-Getter](https://github.com/xiaowine/Lyric-Getter)  
 
 - **社交平台增强**
-  - **TG增强模块（TMoe）**
+  - **Telegram**
     - [TMoe](https://github.com/cinit/TMoe)  
-  - **抖音模块（FreedomPlus）**
-    - [FreedomPlus](https://github.com/GangJust/FreedomPlus)  
-  - **推特增强**
+  - **Twitter**
     - [piko](https://github.com/crimera/piko)  
-    - [TwiFucker](https://github.com/Dr-TSNG/TwiFucker)  
-  - **贴吧模块**
+    - [TwiFucker](https://github.com/Dr-TSNG/TwiFucker)
+  - **抖音**
+    - [FreedomPlus](https://github.com/GangJust/FreedomPlus)  
+  - **贴吧**
     - [贴吧TS](https://github.com/GuhDoy/TiebaTS)  
-  - **知乎模块**
+  - **知乎**
     - [知了](https://github.com/shatyuka/Zhiliao)  
 
 - **多媒体增强**
-  - **杜比大喇叭 β版**
-    - [dolby_beta](https://github.com/nining377/dolby_beta)  
   - **哔哩漫游**
     - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  
   - **哔哩漫游X**
     - [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)  
-  - **Q音助手**
+ - **网易云**
+    - [dolby_beta](https://github.com/nining377/dolby_beta)  
+   - **QQ音乐**
     - [qmhelper](https://github.com/Xposed-Modules-Repo/me.kofua.qmhelper)  
 
-- **QQ增强**
+- **QQ**
   - [QAuxiliary](https://github.com/cinit/QAuxiliary)  
 
-- **微信增强**
+- **微信**
   - [微X模块](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)  
 
 - **签名校验绕过**
