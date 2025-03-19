@@ -37,7 +37,6 @@ biliCopilot（B站第三方）https://github.com/Richasy/Bili.Copilot
 大麦抢票 https://github.com/shiyutim/tickets  
 拯救者工具箱 https://github.com/BartoszCichecki/LenovoLegionToolkit  
 磁力下载（qBittorrent） https://github.com/c0re100/qBittorrent-Enhanced-Edition  
-
 Protonmail https://github.com/ProtonMail/WebClients  
 电脑内存清理 https://github.com/henrypp/memreduct  
 资源合集 https://github.com/sindresorhus/awesome  
@@ -48,7 +47,6 @@ AI语音克隆 https://github.com/RVC-Boss/GPT-SoVITS
 OBS录屏 https://github.com/obsproject/obs-studio  
 微信聊天记录提取 https://github.com/LC044/WeChatMsg  
 optimizer（Windows优化） https://github.com/hellzerg/optimizer  
-
 
 pc脚本&插件  
 搜索引擎优化 https://github.com/langren1353/GM_script  
@@ -67,8 +65,6 @@ flash插件 https://github.com/darktohka/FlashPatch
 网页视频下载拓展 https://github.com/aclap-dev/video-downloadhelper  
 脚本猫 https://github.com/scriptscat/scriptcat  
 人机验证拓展 https://github.com/dessant/buster  
-
-
 
 Android  
 洛雪、Musicfree音源 https://github.com/Huibq/keep-alive  
@@ -145,7 +141,7 @@ hookvip https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp
 杜比大喇叭β版 https://github.com/nining377/dolby_beta  
 签名校验 https://github.com/xihan123/SignHook  
 哔哩漫游X https://github.com/BiliRoamingX/BiliRoamingX  
-Q音助手 https://github.com/Xposed-Modules-Repo/me.kofua.qmhelper
+Q音助手 https://github.com/Xposed-Modules-Repo/me.kofua.qmhelper  
 QQ模块（QAuxiliary） https://github.com/cinit/QAuxiliary  
 微X模块 https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed  
 哔哩漫游 https://github.com/yujincheng08/BiliRoaming  
