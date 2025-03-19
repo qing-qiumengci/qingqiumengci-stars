@@ -1,5 +1,5 @@
 # 🌟 qingqiumengci-stars
-📌 自用星标仓库
+📌 卿·秋梦辞自用星标仓库
 
 ---
 
@@ -230,38 +230,6 @@
 
 ---
 
-## 🌐 科学上网工具与资源
-
-- **客户端工具**
-  - **v2rayN**
-    - [v2rayN](https://github.com/2dust/v2rayN)  
-  - **v2rayNG**
-    - [v2rayNG](https://github.com/2dust/v2rayNG)  
-  - **Clash Verge**
-    - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)  
-  - **ClashMeta for Android**
-    - [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid)  
-  - **ProtonVPN**
-    - [ProtonVPN（Android）](https://github.com/ProtonVPN/android-app)  
-    - [ProtonVPN（Windows）](https://github.com/ProtonVPN/win-app)  
-
-- **订阅与节点抓取**
-  - **v2rayN订阅**
-    - [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)  
-  - **Clash订阅**
-    - [clashfree](https://github.com/aiboboxx/clashfree)  
-  - **节点自动抓取**
-    - [AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)  
-  - **漏网之鱼**
-    - [louwangzhiyu](https://github.com/louwangzhiyu001/louwangzhiyu)  
-
-- **科学上网教程**
-  - **科学上网教程**
-    - [new-pac](https://github.com/Alvin9999/new-pac)  
-
-
----
-
 ## 🔧 模块整理
 
 - **框架**
@@ -292,9 +260,9 @@
     - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming)  
   - **哔哩漫游X**
     - [BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX)  
- - **网易云**
+  - **网易云**
     - [dolby_beta](https://github.com/nining377/dolby_beta)  
-   - **QQ音乐**
+  - **QQ音乐**
     - [qmhelper](https://github.com/Xposed-Modules-Repo/me.kofua.qmhelper)  
 
 - **QQ**
@@ -307,7 +275,40 @@
   - [SignHook](https://github.com/xihan123/SignHook)  
 
 - **VIP破解**
-  - **hookvip pro**
+   - **hookvip**
+    - [hookvip](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp)
+
+   - **hookvip pro**
     - [hookvip pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)  
-  - **hookvip**
-    - [hookvip](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp)  
+  
+---
+
+  ## 🌐 科学上网工具与资源
+
+- **客户端工具**
+  - **v2rayN**
+    - [v2rayN](https://github.com/2dust/v2rayN)  
+  - **v2rayNG**
+    - [v2rayNG](https://github.com/2dust/v2rayNG)  
+  - **Clash Verge**
+    - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)  
+  - **ClashMeta for Android**
+    - [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid)  
+  - **ProtonVPN**
+    - [ProtonVPN（Android）](https://github.com/ProtonVPN/android-app)  
+    - [ProtonVPN（Windows）](https://github.com/ProtonVPN/win-app)  
+
+- **订阅与节点抓取**
+  - **v2rayN订阅**
+    - [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)  
+  - **Clash订阅**
+    - [clashfree](https://github.com/aiboboxx/clashfree)  
+  - **节点自动抓取**
+    - [AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)  
+  - **漏网之鱼**
+    - [louwangzhiyu](https://github.com/louwangzhiyu001/louwangzhiyu)  
+
+- **科学上网教程**
+  - **科学上网教程**
+    - [new-pac](https://github.com/Alvin9999/new-pac)  
+
