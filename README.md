@@ -7,8 +7,6 @@
 
 - **音乐&影视**
   - **音乐**
-    - **Musicfree（音乐播放器 枪弹分离）**
-      - [MusicFree](https://github.com/maotoumao/MusicFree)
     - **洛雪、Musicfree音源**
       - [keep-alive](https://github.com/Huibq/keep-alive)  
     - **网易云增强插件**
@@ -85,6 +83,8 @@
     - [wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup)  
   - **微信聊天记录提取**
     - [WeChatMsg](https://github.com/LC044/WeChatMsg)  
+  - **QQ增强插件**
+    - [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)  
   - **QQ空间历史说说**
     - [GetQzonehistory](https://github.com/LibraHp/GetQzonehistory)  
   - **聊天机器人部署**
@@ -107,7 +107,7 @@
 
 ## ⚙️ PC脚本 & 插件
 
-- **网页增强与优化**
+- **拓展插件**
   - **搜索引擎优化**
     - [GM_script](https://github.com/langren1353/GM_script)  
   - **搜索引擎**
@@ -118,41 +118,28 @@
     - [BewlyBewly](https://github.com/BewlyBewly/BewlyBewly)  
   - **哔哩哔哩第三方浏览器插件**
     - [BiliChrome](https://github.com/EZ118/BiliChrome)  
-  - **github汉化**
-    - [github-chinese](https://github.com/maboloshi/github-chinese)  
+  - **listen 1（音乐聚合）**
+    - [listen1_desktop](https://github.com/listen1/listen1_desktop)  
+  - **flash插件**
+    - [FlashPatch](https://github.com/darktohka/FlashPatch)  
   - **人机验证拓展**
     - [buster](https://github.com/dessant/buster)  
   - **网页视频下载拓展**
     - [video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper)  
-
-- **资源下载与嗅探**
+- **脚本**
+  - **脚本猫**
+   - [scriptcat](https://github.com/scriptscat/scriptcat)  
   - **m3u8视频下载**
     - [m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader)  
   - **猫抓（浏览器资源嗅探）**
-    - [cat-catch](https://github.com/xifangczy/cat-catch)  
-
-- **QQ与增强插件**
-  - **QQ增强插件**
-    - [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)  
-
-- **学习与自动化**
+    - [cat-catch](https://github.com/xifangczy/cat-catch)
+   - **github汉化**
+    - [github-chinese](https://github.com/maboloshi/github-chinese)  
   - **学习通题库爬取**
     - [xxt](https://github.com/notnotype/xxt)  
   - **学习通刷课**
     - [xuexitongScript](https://github.com/chaolucky18/xuexitongScript)  
-
-- **音乐与媒体**
-  - **listen 1（音乐聚合）**
-    - [listen1_desktop](https://github.com/listen1/listen1_desktop)  
-
-- **脚本与插件管理**
-  - **脚本猫**
-    - [scriptcat](https://github.com/scriptscat/scriptcat)  
-
-- **其他插件**
-  - **flash插件**
-    - [FlashPatch](https://github.com/darktohka/FlashPatch)  
-
+  
 ---
 
 ## 📱 Android工具与资源
