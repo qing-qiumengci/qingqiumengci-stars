@@ -251,12 +251,17 @@
   - **Twitter**
     - [piko](https://github.com/crimera/piko)  
     - [TwiFucker](https://github.com/Dr-TSNG/TwiFucker)
+ - **QQ**
+    - [QAuxiliary](https://github.com/cinit/QAuxiliary)  
+  - **微信**
+    - [微X模块](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)  
   - **抖音**
     - [FreedomPlus](https://github.com/GangJust/FreedomPlus)  
   - **贴吧**
     - [贴吧TS](https://github.com/GuhDoy/TiebaTS)  
   - **知乎**
     - [知了](https://github.com/shatyuka/Zhiliao)  
+ 
 
 - **多媒体增强**
   - **哔哩漫游**
@@ -268,11 +273,6 @@
   - **QQ音乐**
     - [qmhelper](https://github.com/Xposed-Modules-Repo/me.kofua.qmhelper)  
 
-- **QQ**
-  - [QAuxiliary](https://github.com/cinit/QAuxiliary)  
-
-- **微信**
-  - [微X模块](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed)  
 
 - **签名校验绕过**
   - [SignHook](https://github.com/xihan123/SignHook)  
