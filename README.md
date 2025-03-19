@@ -6,9 +6,9 @@
 ## 💻 Windows工具与资源
 
 - **音乐&影视**
- - **音乐** 
-  - **Musicfree（音乐播放器 枪弹分离）**
-   - [MusicFree](https://github.com/maotoumao/MusicFree)  
+  - **音乐**
+    - **Musicfree（音乐播放器 枪弹分离）**
+      - [MusicFree](https://github.com/maotoumao/MusicFree)
    - **洛雪、Musicfree音源**
      - [keep-alive](https://github.com/Huibq/keep-alive)  
    - **网易云增强插件**
