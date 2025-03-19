@@ -1,5 +1,5 @@
 # 🌟 qingqiumengci-stars
-📌 卿·秋梦辞自用星标仓库
+📌 🎼.•*¨*•.¸¸♬🎶卿·秋梦辞自用星标仓库•*¨*•.¸¸♬•*¨*•.¸¸♪
 ![qingqiumengci](https://cdn.jsdelivr.net/gh/BewlyBewly/Imgs/wallpapers/bml2019-vr.jpg)
 ---
 
