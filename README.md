@@ -128,12 +128,12 @@
     - [video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper)  
 - **脚本**
   - **脚本猫**
-   - [scriptcat](https://github.com/scriptscat/scriptcat)  
+    - [scriptcat](https://github.com/scriptscat/scriptcat)  
   - **m3u8视频下载**
     - [m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader)  
   - **猫抓（浏览器资源嗅探）**
     - [cat-catch](https://github.com/xifangczy/cat-catch)
-   - **github汉化**
+  - **github汉化**
     - [github-chinese](https://github.com/maboloshi/github-chinese)  
   - **学习通题库爬取**
     - [xxt](https://github.com/notnotype/xxt)  
