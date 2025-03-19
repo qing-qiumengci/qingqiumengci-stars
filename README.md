@@ -1,6 +1,6 @@
 # 🌟 qingqiumengci-stars
 📌 卿·秋梦辞自用星标仓库
-![示例图片](https://pixabay.com/zh/photos/evening-sky-afterglow-evening-8338559/)
+![qingqiumengci](https://cdn.jsdelivr.net/gh/BewlyBewly/Imgs/wallpapers/bml2019-vr.jpg)
 ---
 
 ## 💻 Windows工具与资源
