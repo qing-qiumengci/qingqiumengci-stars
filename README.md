@@ -6,43 +6,43 @@
 ## 💻 Windows工具与资源
 
 - **音乐&影视**
- - **音乐** 
-  - **Musicfree（音乐播放器 枪弹分离）**
-    - [MusicFree](https://github.com/maotoumao/MusicFree)  
-  - **洛雪、Musicfree音源**
-    - [keep-alive](https://github.com/Huibq/keep-alive)  
-  - **网易云增强插件**
-    - [BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer)  
-    - [BetterNCM](https://github.com/std-microblock/BetterNCM)  
-    - [InfinityLink](https://github.com/BetterNCM/InfinityLink)  
-  - **网易云换源**
-    - [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic)  
-    - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)  
-  - **Spotify增强补丁**
-    - [SpotX](https://github.com/SpotX-Official/SpotX)  
-  - **Spotify歌词**
-    - [Lyricify-App](https://github.com/WXRIW/Lyricify-App)  
-  - **网易云解析下载**
-    - [Netease_url](https://github.com/Suxiaoqinx/Netease_url)  
-  - **Spotify解析下载**
-    - [spotify-downloader](https://github.com/spotDL/spotify-downloader)  
-  - **国内外歌单迁移**
-    - [GoMusic](https://github.com/Bistutu/GoMusic)
- - **视频** 
-  - **tomatox（视频解析播放器 枪弹分离）**
-    - [TOMATOX](https://github.com/FreeIess/TOMATOX)  
-  - **BBDown（B站视频下载）**
-    - [BBDown](https://github.com/nilaoda/BBDown)  
-  - **biliCopilot（B站第三方）**
-    - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)  
-  - **网页视频提取**
-    - [mediago](https://github.com/caorushizi/mediago)  
-  - **磁力下载（qBittorrent）**
-    - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
-  - **AI语音克隆**
-    - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
-  - **AI增强视频/图片分辨率**
-    - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
+  - **音乐** 
+   - **Musicfree（音乐播放器 枪弹分离）**
+     - [MusicFree](https://github.com/maotoumao/MusicFree)  
+   - **洛雪、Musicfree音源**
+     - [keep-alive](https://github.com/Huibq/keep-alive)  
+   - **网易云增强插件**
+     - [BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer)  
+     - [BetterNCM](https://github.com/std-microblock/BetterNCM)  
+     - [InfinityLink](https://github.com/BetterNCM/InfinityLink)  
+   - **网易云换源**
+     - [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic)  
+     - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)  
+   - **Spotify增强补丁**
+     - [SpotX](https://github.com/SpotX-Official/SpotX)  
+   - **Spotify歌词**
+     - [Lyricify-App](https://github.com/WXRIW/Lyricify-App)  
+   - **网易云解析下载**
+     - [Netease_url](https://github.com/Suxiaoqinx/Netease_url)  
+   - **Spotify解析下载**
+     - [spotify-downloader](https://github.com/spotDL/spotify-downloader)  
+   - **国内外歌单迁移**
+     - [GoMusic](https://github.com/Bistutu/GoMusic)
+  - **视频** 
+   - **tomatox（视频解析播放器 枪弹分离）**
+     - [TOMATOX](https://github.com/FreeIess/TOMATOX)  
+   - **BBDown（B站视频下载）**
+     - [BBDown](https://github.com/nilaoda/BBDown)  
+   - **biliCopilot（B站第三方）**
+     - [Bili.Copilot](https://github.com/Richasy/Bili.Copilot)  
+   - **网页视频提取**
+     - [mediago](https://github.com/caorushizi/mediago)  
+   - **磁力下载（qBittorrent）**
+     - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
+   - **AI语音克隆**
+     - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
+   - **AI增强视频/图片分辨率**
+     - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
 
 - **系统与优化**
   - **电脑控制手机**
