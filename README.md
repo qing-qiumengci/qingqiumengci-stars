@@ -57,9 +57,9 @@
   - **C盘清理**
     - [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)  
   - **Windows优化**
-    - [optimizer](https://github.com/hellzerg/optimizer)
+    - [optimizer](https://github.com/hellzerg/optimizer) 
   - **暂停Windows更新**
-    -[pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)  
+    -[pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates) 
   - **Windows11文件夹图标**
     - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
   - **窗口增强**
@@ -156,7 +156,7 @@
   - **学习通自动刷课**
     - [ocsjs](https://github.com/ocsjs/ocsjs) 
   - **网页视频提取**
-    -[media-source-extract](https://github.com/Momo707577045/media-source-extract)
+    -[media-source-extract](https://github.com/Momo707577045/media-source-extract) 
   - **网页视频解析**
     - [OneKeyVip](https://github.com/maxzhang666/OneKeyVip)
   - **油猴脚本合集**
@@ -198,7 +198,7 @@
   - **SKIP（跳广告）**
     - [SKIP](https://github.com/GuoXiCheng/SKIP)  
   - **广告规则（AdGuard适用）**
-    - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)  
+    - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) 
    - **广告规则（AdGuard）**
     - [AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules)  
   - **GKD第三方订阅**
