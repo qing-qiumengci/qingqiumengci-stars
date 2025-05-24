@@ -40,7 +40,7 @@
     - **BBDown（B站视频下载）**
       - [BBDown](https://github.com/nilaoda/BBDown)
     - **多平台直播录制**
-      -[StreamCap](https://github.com/ihmily/StreamCap) 
+      - [StreamCap](https://github.com/ihmily/StreamCap) 
     - **AI语音克隆**
       - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
     - **AI增强视频/图片分辨率**
@@ -178,7 +178,7 @@
     - [flutter-app](https://github.com/bb-music/flutter-app)  
   - **哔哩哔哩视频下载**
     - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge)
-  -多平台视频下载解析**
+  - **多平台视频下载解析**
     - [Seal](https://github.com/JunkFood02/Seal)  
   - **影视TV（枪弹分离）**
     - [Release](https://github.com/FongMi/Release)  
@@ -190,7 +190,7 @@
     - [legado](https://github.com/gedoor/legado)  
   - **spotify（枪弹分离）**
     - [spotube](https://github.com/KRTirtho/spotube)
-  -**应用商店**
+  - **应用商店**
      [appteka-和roid](https://github.com/solkin/appteka-和roid)  -
 - **广告与规则**
  - **GKD（跳广告）**
