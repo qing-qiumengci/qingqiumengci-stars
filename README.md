@@ -116,7 +116,7 @@
   - **柚坛工具箱 NT**
     - [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)  
 - **科技周刊**
-   - **玄离199项目整理**  
+  - **玄离199项目整理**  
     - [weekly](https://github.com/xuanli199/weekly)  
   - **weekly（技术周刊）**  
     - [ruanyf/weekly](https://github.com/ruanyf/weekly)  
@@ -298,10 +298,10 @@
   - [SignHook](https://github.com/xihan123/SignHook)  
 
 - **VIP破解**
-   - **hookvip**  
+  - **hookvip**  
     - [hookvip](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp)
 
-   - **hookvip pro**  
+  - **hookvip pro**  
     - [hookvip pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)  
   
 ---
