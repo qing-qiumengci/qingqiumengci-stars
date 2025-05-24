@@ -15,7 +15,9 @@
       - [InfinityLink](https://github.com/BetterNCM/InfinityLink)  
     - **网易云换源**
       - [QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic)  
-      - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)  
+      - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
+    - **第三方音乐播放**
+      - [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer)  
     - **Spotify增强补丁**
       - [SpotX](https://github.com/SpotX-Official/SpotX)  
     - **Spotify歌词**
@@ -43,31 +45,39 @@
       - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
     - **AI增强视频/图片分辨率**
       - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
-
+    - **课表管理**
+      - [ClassIsland](https://github.com/ClassIsland/ClassIsland)  
 - **系统与优化**
   - **电脑控制手机**
     - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
   - **电脑远程控制**
     - [FreeControl](https://github.com/pdone/FreeControl) 
   - **电脑内存清理**
-    - [memreduct](https://github.com/henrypp/memreduct)  
+    - [memreduct](https://github.com/henrypp/memreduct)
+  - **C盘清理**
+    - [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)  
   - **Windows优化**
     - [optimizer](https://github.com/hellzerg/optimizer)
   -暂停Windows更新**
     -[pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)  
   - **Windows11文件夹图标**
     - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
+  - **窗口增强**
+    - [AltSnap](https://github.com/RamonUnch/AltSnap) 
   - **鼠标右键菜单管理**
     - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)  
   - **连点器**
     - [MouseClick](https://github.com/SeaYJ/MouseClick)  
   - **防撤回补丁**
-    - [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)  
+    - [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+  - **微信防撤回补丁**
+    - [BetterWx-UI](https://github.com/afaa1991/BetterWx-UI)  
   - **OBS录屏**
     - [obs-studio](https://github.com/obsproject/obs-studio)  
   - **拯救者工具箱**
     - [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)  
-
+  - **霞鹜文楷字体**
+    - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)  
 - **网络与资源**
   - **IP检测**
     - [MyIP](https://github.com/jason5ng32/MyIP)  
@@ -147,7 +157,11 @@
   - **学习通自动刷课**
     - [ocsjs](https://github.com/ocsjs/ocsjs) 
   - **网页视频提取**
-    -[media-source-extract](https://github.com/Momo707577045/media-source-extract)  
+    -[media-source-extract](https://github.com/Momo707577045/media-source-extract)
+  - **网页视频解析**
+    - [OneKeyVip](https://github.com/maxzhang666/OneKeyVip)
+  - **油猴脚本合集**
+      - [TamperMonkeyScript](https://github.com/WhiteSevs/TamperMonkeyScript)  
 ---
 
 ## 📱 Android工具与资源
@@ -215,7 +229,8 @@
     - [Anti-recall](https://github.com/JasonQS/Anti-recall)
   - **隐私保护**
     - [Untracker](https://github.com/zhanghai/Untracker)  
-
+  - **应用管理器**
+    - [AppManager](https://github.com/MuntashirAkon/AppManager) 
 - **校园与实用工具**
   - **校园网**
     - [NJFU-WiFi-Tools](https://github.com/Sunhaha520/NJFU-WiFi-Tools)  
@@ -305,11 +320,15 @@
 
 - **订阅与节点抓取**
   - **v2rayN订阅**
-    - [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)  
+    - [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
+  - **v2rayn订阅2**
+    -  [v2rayfree](https://github.com/aiboboxx/v2rayfree)  
   - **Clash订阅**
     - [clashfree](https://github.com/aiboboxx/clashfree)  
   - **节点自动抓取**
-    - [AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)  
+    - [AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes)
+  - **节点爬取**
+    -  [aggregator](https://github.com/wzdnzd/aggregator)  
   - **漏网之鱼**
     - [louwangzhiyu](https://github.com/louwangzhiyu001/louwangzhiyu)  
 
