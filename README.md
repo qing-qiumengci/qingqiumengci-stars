@@ -203,7 +203,7 @@
     - [SKIP](https://github.com/GuoXiCheng/SKIP)  
   - **广告规则（AdGuard适用）**
     - [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) 
-   - **广告规则（AdGuard）**
+  - **广告规则（AdGuard）**
     - [AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules)  
   - **GKD第三方订阅**
     - [GKD_THS_List](https://github.com/Adpro-Team/GKD_THS_List)  
