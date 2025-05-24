@@ -58,7 +58,7 @@
     - [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)  
   - **Windows优化**
     - [optimizer](https://github.com/hellzerg/optimizer)
-  -暂停Windows更新**
+  - **暂停Windows更新**
     -[pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)  
   - **Windows11文件夹图标**
     - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
@@ -76,8 +76,7 @@
     - [obs-studio](https://github.com/obsproject/obs-studio)  
   - **拯救者工具箱**
     - [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)  
-  - **霞鹜文楷字体**
-    - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)  
+ 
 - **网络与资源**
   - **IP检测**
     - [MyIP](https://github.com/jason5ng32/MyIP)  
@@ -88,7 +87,9 @@
   - **网页资源下载**
     - [res-downloader](https://github.com/putyy/res-downloader)  
   - **电视源（IPTV）**
-    - [iptv-api](https://github.com/Guovin/iptv-api)  
+    - [iptv-api](https://github.com/Guovin/iptv-api)
+  - **霞鹜文楷字体**
+    - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)  
   - **资源合集**
     - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends?tab=readme-ov-file)  
     - [awesome](https://github.com/sindresorhus/awesome)  
@@ -110,8 +111,6 @@
     - [WebClients](https://github.com/ProtonMail/WebClients)  
   - **浏览器数据导出**
     - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)  
-
-- **抢票与项目整理**
   - **大麦抢票**
     - [tickets](https://github.com/shiyutim/tickets)  
   - **玄离199项目整理**
@@ -171,8 +170,8 @@
     - [keep-alive](https://github.com/Huibq/keep-alive)  
   - **Musicfree（音乐播放器 枪弹分离）**
     - [MusicFree](https://github.com/maotoumao/MusicFree)
-  -**Spotify增强版**
-    -[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) 
+  - **Spotify增强版**
+    - [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) 
   - **哔哩哔哩（第三方）**
     - [pilipala](https://github.com/guozhigq/pilipala)  
   - **哔哩哔哩音乐**
@@ -230,14 +229,14 @@
   - **隐私保护**
     - [Untracker](https://github.com/zhanghai/Untracker)  
   - **应用管理器**
-    - [AppManager](https://github.com/MuntashirAkon/AppManager) 
-- **校园与实用工具**
+    - [AppManager](https://github.com/MuntashirAkon/AppManager)
+  - **大麦抢票**
+    - [ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) 
   - **校园网**
     - [NJFU-WiFi-Tools](https://github.com/Sunhaha520/NJFU-WiFi-Tools)  
   - **NJFU资料共享**
     - [NJFU-Courses](https://github.com/NJFU-CS/NJFU-Courses)  
-  - **大麦抢票脚本**
-    - [ticket-grabbing](https://github.com/Pactum7/ticket-grabbing)  
+   
 
 - **通讯与社交**
   - **TG群聊&机器人**
