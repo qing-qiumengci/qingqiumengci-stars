@@ -113,11 +113,15 @@
     - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)  
   - **大麦抢票**
     - [tickets](https://github.com/shiyutim/tickets)  
-  - **玄离199项目整理**
-    - [weekly](https://github.com/xuanli199/weekly)  
   - **柚坛工具箱 NT**
     - [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)  
-
+- **科技周刊**
+   - **玄离199项目整理**
+    - [weekly](https://github.com/xuanli199/weekly)  
+  - **weekly（技术周刊）**  
+    - [ruanyf/weekly](https://github.com/ruanyf/weekly)  
+  - **HelloGitHub（GitHub开源推荐）**  
+    - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)  
 
 ---
 
