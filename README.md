@@ -58,8 +58,8 @@
     - [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner)  
   - **Windows优化**
     - [optimizer](https://github.com/hellzerg/optimizer) 
- - **暂停Windows更新**  
-  - [pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)  
+  - **暂停Windows更新**  
+    - [pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)  
   - **Windows11文件夹图标**
     - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
   - **窗口增强**
