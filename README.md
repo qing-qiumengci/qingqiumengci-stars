@@ -191,7 +191,7 @@
   - **spotify（枪弹分离）**
     - [spotube](https://github.com/KRTirtho/spotube)
   - **应用商店**
-     [appteka-和roid](https://github.com/solkin/appteka-和roid)  -
+    - [appteka-和roid](https://github.com/solkin/appteka-和roid) 
 - **广告与规则**
  - **GKD（跳广告）**
     - [gkd](https://github.com/gkd-kit/gkd)  
