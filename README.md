@@ -116,7 +116,7 @@
   - **柚坛工具箱 NT**
     - [UotanToolboxNT](https://github.com/Uotan-Dev/UotanToolboxNT)  
 - **科技周刊**
-   - **玄离199项目整理**
+   - **玄离199项目整理**  
     - [weekly](https://github.com/xuanli199/weekly)  
   - **weekly（技术周刊）**  
     - [ruanyf/weekly](https://github.com/ruanyf/weekly)  
