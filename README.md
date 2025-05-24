@@ -1,5 +1,5 @@
 # 🌟 qingqiumengci-stars
-📌 🎼.•*¨*•.¸¸♬🎶卿·秋梦辞自用星标仓库•*¨*•.¸¸♬•*¨*•.¸¸♪
+📌 🎼.•*¨*•.¸¸♬🎶卿_秋梦辞自用星标仓库•*¨*•.¸¸♬•*¨*•.¸¸♪
 ![qingqiumengci](https://wx4.sinaimg.cn/large/008v8I66gy1hs78oxkklqj33pc2gw4qq.jpg)
 ---
 
@@ -36,8 +36,9 @@
     - **磁力下载（qBittorrent）**
       - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
     - **BBDown（B站视频下载）**
-      - [BBDown](https://github.com/nilaoda/BBDown)  
-
+      - [BBDown](https://github.com/nilaoda/BBDown)
+    - **多平台直播录制**
+      -[StreamCap](https://github.com/ihmily/StreamCap) 
     - **AI语音克隆**
       - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
     - **AI增强视频/图片分辨率**
@@ -45,11 +46,15 @@
 
 - **系统与优化**
   - **电脑控制手机**
-    - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)  
+    - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+  - **电脑远程控制**
+    - [FreeControl](https://github.com/pdone/FreeControl) 
   - **电脑内存清理**
     - [memreduct](https://github.com/henrypp/memreduct)  
   - **Windows优化**
-    - [optimizer](https://github.com/hellzerg/optimizer)  
+    - [optimizer](https://github.com/hellzerg/optimizer)
+  -暂停Windows更新**
+    -[pause-windows-updates](https://github.com/Aetherinox/pause-windows-updates)  
   - **Windows11文件夹图标**
     - [Folder11-Ico](https://github.com/icon11-community/Folder11-Ico)  
   - **鼠标右键菜单管理**
@@ -138,8 +143,11 @@
   - **学习通题库爬取**
     - [xxt](https://github.com/notnotype/xxt)  
   - **学习通刷课**
-    - [xuexitongScript](https://github.com/chaolucky18/xuexitongScript)  
-  
+    - [xuexitongScript](https://github.com/chaolucky18/xuexitongScript)
+  - **学习通自动刷课**
+    - [ocsjs](https://github.com/ocsjs/ocsjs) 
+  - **网页视频提取**
+    -[media-source-extract](https://github.com/Momo707577045/media-source-extract)  
 ---
 
 ## 📱 Android工具与资源
@@ -148,13 +156,17 @@
   - **洛雪、Musicfree音源**
     - [keep-alive](https://github.com/Huibq/keep-alive)  
   - **Musicfree（音乐播放器 枪弹分离）**
-    - [MusicFree](https://github.com/maotoumao/MusicFree)  
+    - [MusicFree](https://github.com/maotoumao/MusicFree)
+  -**Spotify增强版**
+    -[EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) 
   - **哔哩哔哩（第三方）**
     - [pilipala](https://github.com/guozhigq/pilipala)  
   - **哔哩哔哩音乐**
     - [flutter-app](https://github.com/bb-music/flutter-app)  
   - **哔哩哔哩视频下载**
-    - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge)  
+    - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge)
+  -多平台视频下载解析**
+    - [Seal](https://github.com/JunkFood02/Seal)  
   - **影视TV（枪弹分离）**
     - [Release](https://github.com/FongMi/Release)  
   - **影视Jellyfin果冻（枪弹分离）**
@@ -164,8 +176,9 @@
   - **阅读（枪弹分离）**
     - [legado](https://github.com/gedoor/legado)  
   - **spotify（枪弹分离）**
-    - [spotube](https://github.com/KRTirtho/spotube)  
-
+    - [spotube](https://github.com/KRTirtho/spotube)
+  -**应用商店**
+     [appteka-和roid](https://github.com/solkin/appteka-和roid)  -
 - **广告与规则**
  - **GKD（跳广告）**
     - [gkd](https://github.com/gkd-kit/gkd)  
@@ -199,7 +212,9 @@
   - **应用列表**
     - [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku)  
   - **防撤回（免root）**
-    - [Anti-recall](https://github.com/JasonQS/Anti-recall)  
+    - [Anti-recall](https://github.com/JasonQS/Anti-recall)
+  - **隐私保护**
+    - [Untracker](https://github.com/zhanghai/Untracker)  
 
 - **校园与实用工具**
   - **校园网**
