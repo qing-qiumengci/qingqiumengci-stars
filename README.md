@@ -111,7 +111,7 @@
     - [WechatMonmentsScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)
   - **资源合集**
     - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends?tab=readme-ov-file)  
-    - [awesome](https://github.com/sindresorhus/awesome)
+    - [awesome](https://github.com/sindresorhus/awesome)  
   - **多平台直播录制**
     -[DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)  
   - **云音乐歌词获取处理**
@@ -199,7 +199,7 @@
   - **多社交平台爬虫**
     - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)  
   - **Microsoft rewards**
-    -[MicrosoftRewardsWebsite](https://github.com/spin311/MicrosoftRewardsWebsite)  
+    - [MicrosoftRewardsWebsite](https://github.com/spin311/MicrosoftRewardsWebsite)  
 ---
 
 ## 📱 Android工具与资源
