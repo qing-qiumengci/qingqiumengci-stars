@@ -39,9 +39,9 @@
     - **磁力下载（qBittorrent）**
       - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)  
     - **BBDown（B站视频下载）**
-      - [BBDown](https://github.com/nilaoda/BBDown)
+      - [BBDown](https://github.com/nilaoda/BBDown)  
     - **多平台直播录制**
-      - [StreamCap](https://github.com/ihmily/StreamCap) 
+      - [StreamCap](https://github.com/ihmily/StreamCap)   
     - **AI语音克隆**
       - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)  
     - **AI增强视频/图片分辨率**
@@ -113,7 +113,7 @@
     - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends?tab=readme-ov-file)  
     - [awesome](https://github.com/sindresorhus/awesome)
   - **多平台直播录制**
-    -[DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)
+    -[DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)  
   - **云音乐歌词获取处理**
     - [163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)  
 
@@ -185,9 +185,9 @@
   - **学习通刷课**
     - [xuexitongScript](https://github.com/chaolucky18/xuexitongScript)
   - **学习通自动刷课**
-    - [ocsjs](https://github.com/ocsjs/ocsjs) 
+    - [ocsjs](https://github.com/ocsjs/ocsjs)   
   - **网页视频提取**
-    -[media-source-extract](https://github.com/Momo707577045/media-source-extract) 
+    -[media-source-extract](https://github.com/Momo707577045/media-source-extract)  
   - **网页视频解析**
     - [OneKeyVip](https://github.com/maxzhang666/OneKeyVip)
   - **网盘直链**
@@ -197,7 +197,7 @@
   - **bilibili扩展&脚本集合**
     - [awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra)
   - **多社交平台爬虫**
-    - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+    - [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)  
   - **Microsoft rewards**
     -[MicrosoftRewardsWebsite](https://github.com/spin311/MicrosoftRewardsWebsite)  
 ---
@@ -347,7 +347,8 @@
     - [hookvip](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp)
 
   - **hookvip pro**  
-    - [hookvip pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)   - **ReVancedXposed**
+    - [hookvip pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro)  
+  - **ReVancedXposed**
     - [ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed)  
   
 ---
