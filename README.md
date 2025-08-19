@@ -210,7 +210,7 @@
   - **Musicfree（音乐播放器 枪弹分离）**
     - [MusicFree](https://github.com/maotoumao/MusicFree)
   - **Spotify增强版**
-    - [EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)
+    - [EeveeSpotifyReborn](https://github.com/whoeevee/EeveeSpotifyReborn)  
     - [xManager](https://github.com/Team-xManager/xManager)
   - **哔哩哔哩（第三方）**
     - [pilipala](https://github.com/guozhigq/pilipala)  
